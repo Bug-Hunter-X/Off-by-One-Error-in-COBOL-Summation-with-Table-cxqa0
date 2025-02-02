@@ -1,0 +1,1 @@
+This repository contains a COBOL program with an off-by-one error in a loop that calculates the sum of numbers from 1 to 100 using a table. The error is subtle and demonstrates a common issue when working with array indices in COBOL.  The solution demonstrates the corrected code.
